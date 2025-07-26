@@ -1,4 +1,4 @@
-## Sales Territory Optimization Project
+# Sales Territory Optimization Project
 This project simulates a real-world sales optimization problem using machine learning and business analytics. It includes:
 
 Propensity modeling to predict the likelihood of winning a deal
@@ -35,15 +35,6 @@ Model performance summary (classification report)
 
 List of Top 10 customers to prioritize, based on optimization scores that consider both propensity and profit
 
-# Project Structure
-bash
-Copy
-Edit
-├── data/
-│   └── sample_dataset.csv           # Sample sales data
-├── sales_optimization.py            # Main script
-├── models/                          # Optional: trained models or utility functions
-└── README.md                        # Project overview
 
 # Notes
 This project uses synthetic or anonymized data for demonstration
@@ -51,3 +42,6 @@ This project uses synthetic or anonymized data for demonstration
 You can customize the scoring logic or integrate additional business rules
 
 Suitable for analytics consulting projects or machine learning prototyping
+
+
+<img width="5113" height="3319" alt="sales_optimization" src="https://github.com/user-attachments/assets/4021eb7b-785d-4405-8b5a-e0b488929fc4" />
