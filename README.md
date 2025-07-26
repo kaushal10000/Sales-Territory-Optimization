@@ -35,6 +35,11 @@ Model performance summary (classification report)
 
 List of Top 10 customers to prioritize, based on optimization scores that consider both propensity and profit
 
+<img width="1132" height="711" alt="output" src="https://github.com/user-attachments/assets/6e345558-93f4-4d87-9ef7-ff9d46d846d1" />
+
+
+<img width="5113" height="3319" alt="sales_optimization" src="https://github.com/user-attachments/assets/6e628139-4632-4a88-b04e-3e05c1cee852" />
+
 
 # Notes
 This project uses synthetic or anonymized data for demonstration
@@ -44,4 +49,4 @@ You can customize the scoring logic or integrate additional business rules
 Suitable for analytics consulting projects or machine learning prototyping
 
 
-<img width="5113" height="3319" alt="sales_optimization" src="https://github.com/user-attachments/assets/4021eb7b-785d-4405-8b5a-e0b488929fc4" />
+
